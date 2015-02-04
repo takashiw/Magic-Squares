@@ -1,0 +1,18 @@
+/*
+For the primal version of this assignment, I will create  
+    a two-dimensional array which is the size of the input
+    
+    int[][] grid = new int[n][n]
+    
+  But first we must check if n is an odd number.
+
+      static boolean(int n){
+        if(n % 2 == 0)
+          return false
+        else return true    }
+        
+  If it is odd, we continue. Else, we send back an error message.
+  
+  Then, we create our array.
+   */
+  
