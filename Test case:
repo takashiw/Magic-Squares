@@ -1,0 +1,11 @@
+If you have given matrics of size matrics[3][3] size,
+
+solution: 2 7 6
+          9 5 1
+          4 3 8
+          
+          
+Here sum of first row,second row and third row and both digonals becomes 15.
+
+sum of natural numbers from  1 to 9 =45,
+so you have to make each row's sum and both digonals sum be 15, 
